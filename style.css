@@ -124,7 +124,6 @@
     color: #bbbbbb;
   }
   
-  /* Responsive */
   @media (max-width: 576px) {
     .intro h1 {
       font-size: 2rem;
